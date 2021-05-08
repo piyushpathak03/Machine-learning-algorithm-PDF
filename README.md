@@ -1,5 +1,6 @@
 # Machine Learning and All Algorithms
 * [Machine Learning](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF)
+
 ![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/machine%20learning.jpeg)
 
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
@@ -17,17 +18,30 @@ Semi-supervised learning offers a happy medium between supervised and unsupervis
 Reinforcement machine learning is a behavioral machine learning model that is similar to supervised learning, but the algorithm isn’t trained using sample data. This model learns as it goes by using trial and error. A sequence of successful outcomes will be reinforced to develop the best recommendation or policy for a given problem.
 
 * [Bias-Variance](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/Bias_Variance)
+
 ![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/bias-variance.png)
 
 If the algorithm is too simple (hypothesis with linear eq.) then it may be on high bias and low variance condition and thus is error-prone. If algorithms fit too complex ( hypothesis with high degree eq.) then it may be on high variance and low bias. In the latter condition, the new entries will not perform well. Well, there is something between both of these conditions, known as Trade-off or Bias Variance Trade-off.
 
 * [Cross-Validation](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/Cross%20Validation)
+
 ![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/Cross-Validation.jpg)
 
 Cross validation is a model evaluation method that is better than residuals. The problem with residual evaluations is that they do not give an indication of how well the learner will do when it is asked to make new predictions for data it has not already seen. One way to overcome this problem is to not use the entire data set when training a learner. Some of the data is removed before training begins. Then when training is done, the data that was removed can be used to test the performance of the learned model on new data. This is the basic idea for a whole class of model evaluation methods called cross validation.
 
 * [Metrics in machine learning](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/Metrics)
+
 ![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/Metrics.png)
+
+Evaluation metrics are tied to machine learning tasks. There are different metrics for the tasks of classification, regression, ranking, clustering, topic modeling, etc. Some metrics, such as precision-recall, are useful for multiple tasks. Classification, regression, and ranking are examples of supervised learning, which constitutes a majority of machine learning applications.
+
+# Machine Learning Algorithms
+
+* [Linear Regression](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/Linear%20Model)
+
+![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/Linear%20models.png)
+
+Simple linear regression is useful for finding relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. It looks for statistical relationship but not deterministic relationship. Relationship between two variables is said to be deterministic if one variable can be accurately expressed by the other. For example, using temperature in degree Celsius it is possible to accurately predict Fahrenheit. Statistical relationship is not accurate in determining relationship between two variables. For example, relationship between height and weight.
 
 
 
