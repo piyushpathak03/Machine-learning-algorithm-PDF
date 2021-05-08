@@ -43,6 +43,28 @@ Evaluation metrics are tied to machine learning tasks. There are different metri
 
 Simple linear regression is useful for finding relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. It looks for statistical relationship but not deterministic relationship. Relationship between two variables is said to be deterministic if one variable can be accurately expressed by the other. For example, using temperature in degree Celsius it is possible to accurately predict Fahrenheit. Statistical relationship is not accurate in determining relationship between two variables. For example, relationship between height and weight.
 
+* [Logistics Regression](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/Logistic)
+
+![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/Logistics%20regression.png)
+
+Logistic regression is named for the function used at the core of the method, the logistic function.The logistic function, also called the sigmoid function was developed by statisticians to describe properties of population growth in ecology, rising quickly and maxing out at the carrying capacity of the environment. It’s an S-shaped curve that can take any real-valued number and map it into a value between 0 and 1, but never exactly at those limits.
+
+* [K Nearest Neighbor](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/KNN%20Model)
+
+![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/KNN.png)
+
+K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.It assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories and it stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
+K-NN is a non-parametric algorithm, which means it does not make any assumption on underlying data.
+It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data.
+
+* [Naive Bayes](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main/Naive%20Bayes)
+
+![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/Naive%20Bayes%20models.png)
+
+Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other.
+
+
+
 
 
 
