@@ -1,4 +1,5 @@
 ![Alt Text](https://github.com/piyushpathak03/End-to-End-small-projects/blob/master/IPL-Score-Prediction-with-Deployment/static/ipl.jpeg)
+* [Audio and Speech Pre-trained Models](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/tree/main/Audio_pretrained_model)
 <br>
 
 # ML_Algo_pdf
