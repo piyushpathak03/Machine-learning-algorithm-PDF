@@ -1,7 +1,8 @@
-# ML_Algo_pdf
+# Machine Learning and All Algorithms
 
 ![Alt Text](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/blob/main/static/machine%20learning.jpeg)
 * [Machine Learning Algorithms](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF)
+
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
 
 ### Supervised machine learning            
