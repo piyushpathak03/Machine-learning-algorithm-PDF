@@ -1,3 +1,6 @@
+![Alt Text](https://github.com/piyushpathak03/End-to-End-small-projects/blob/master/IPL-Score-Prediction-with-Deployment/static/ipl.jpeg)
+<br>
+
 # ML_Algo_pdf
 It contains all pdf of ml algorithm
 
